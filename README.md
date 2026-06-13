@@ -12,3 +12,6 @@ como instalar:
 4 - para correr los seeders se debe correr npm run seed
 5 - ahora si correr el npm run dev
 6 - probar rutas
+
+
+cambios realizados en la rama axel
